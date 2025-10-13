@@ -76,9 +76,9 @@ The script will handle the download and merging process, and the final video wil
 
 ## 📄 License
 
-This project is licensed under the **GPL-3.0 License**.
+This project is licensed under the **MIT License**.
 
-This code is intended for educational purposes only. Please **DO NOT** use it for commercial purposes. The developer assumes no responsibility for any adverse consequences resulting from its use.
+You can use this code for other projects, but you **Must provide it is forked by THIS PROJECT**.
 
 ---
 
